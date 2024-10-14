@@ -3,9 +3,14 @@
 </div>
 
 #
-
-I’m a software developer passionate about full-stack development,<br> open-source projects, and learning new technologies.
-🔭 I’m currently working on Real Estate chart bot app.<br>👯 I’m looking to collaborate on AI integration application<br>🤝 I’m looking for help with experience Full Stack Developer with Machine learning integration experience.<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about MARN<br>
+💻 Full-stack developer | 🌟 Open-source enthusiast | 🤖 AI/ML explorer
+Passionate about building innovative solutions with MERN stack. Always eager to learn new technologies and contribute to open-source projects.
+🔭 Currently: Developing a Real Estate chatbot app
+🌱 Learning: Machine Learning
+👯 Seeking: Collaborations on AI integration applications
+🤝 Looking for: Experienced Full Stack devs with ML integration skills
+💬 Ask me about MERN stack development!
+Let's connect and build something amazing! 🚀
 
 # 💻 Tech Stack:
 
