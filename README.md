@@ -1,7 +1,6 @@
 <div align="center">
-  <h1 align="center">Hi! <img  src="https://drive.google.com/uc?export=view&id=1-70i1jqPoZFMlXSyJiKbBeNXNbrJiPuT" alt="waving hand" width="50"> I am Usaid Patel.</h1>
+  <h1 >Hi! <img align="top"  src="https://drive.google.com/uc?export=view&id=1-70i1jqPoZFMlXSyJiKbBeNXNbrJiPuT" alt="waving hand" width="50"> I am Usaid Patel.</h1>
 </div>
-
 #
 
 I’m a software developer passionate about full-stack development,<br> open-source projects, and learning new technologies.
