@@ -1,8 +1,6 @@
 <div align="center">
   <h1 >Hi! <img align="top"  src="https://drive.google.com/uc?export=view&id=1-70i1jqPoZFMlXSyJiKbBeNXNbrJiPuT" alt="waving hand" width="50"> I am Usaid Patel.</h1>
 </div>
-#
-
 I’m a software developer passionate about full-stack development,<br> open-source projects, and learning new technologies.
 🔭 I’m currently working on Real Estate chart bot app.<br>👯 I’m looking to collaborate on AI integration application<br>🤝 I’m looking for help with experience Full Stack Developer with Machine learning integration experience.<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about MARN<br>
 
