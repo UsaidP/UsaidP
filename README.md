@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi! I am Usaid Patel.</h1>
-  <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" alt="waving hand" width="50">
+  <h1>Hi! <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" alt="waving hand" width="50"> I am Usaid Patel.</h1>
+  
 </div>
 
 #
@@ -33,5 +33,3 @@ I’m a software developer passionate about full-stack development,<br> open-sou
 ---
 
 [![](https://visitcount.itsvg.in/api?id=usaidp&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
