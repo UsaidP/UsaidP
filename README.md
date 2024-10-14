@@ -3,13 +3,13 @@
 </div>
 
 #
-💻 Full-stack developer | 🌟 Open-source enthusiast | 🤖 AI/ML explorer
+<div align="center>💻 Full-stack developer | 🌟 Open-source enthusiast | 🤖 AI/ML explorer</div>
 Passionate about building innovative solutions with MERN stack. Always eager to learn new technologies and contribute to open-source projects.
-🔭 Currently: Developing a Real Estate chatbot app
-🌱 Learning: Machine Learning
-👯 Seeking: Collaborations on AI integration applications
-🤝 Looking for: Experienced Full Stack devs with ML integration skills
-💬 Ask me about MERN stack development!
+🔭 Currently: Developing a Real Estate chatbot app</br>
+🌱 Learning: Machine Learning</br>
+👯 Seeking: Collaborations on AI integration applications</br>
+🤝 Looking for: Experienced Full Stack devs with ML integration skills</br>
+💬 Ask me about MERN stack development!</br>
 Let's connect and build something amazing! 🚀
 
 # 💻 Tech Stack:
