@@ -2,9 +2,9 @@
   <h1 >Hi! <img align="top"  src="https://drive.google.com/uc?export=view&id=1-70i1jqPoZFMlXSyJiKbBeNXNbrJiPuT" alt="waving hand" width="50"> I am Usaid Patel.</h1>
 </div>
 
-#
+
 <div align="center>💻 Full-stack developer | 🌟 Open-source enthusiast | 🤖 AI/ML explorer</div>
-Passionate about building innovative solutions with MERN stack. Always eager to learn new technologies and contribute to open-source projects.
+# Passionate about building innovative solutions with MERN stack. Always eager to learn new technologies and contribute to open-source projects.
 🔭 Currently: Developing a Real Estate chatbot app</br>
 🌱 Learning: Machine Learning</br>
 👯 Seeking: Collaborations on AI integration applications</br>
