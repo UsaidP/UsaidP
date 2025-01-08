@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <b>💻 Full-stack developer | 🤖 AI/ML explorer</b>
+  <b>💻 Full-stack developer</b>
 </div>
 
 <br>
@@ -12,9 +12,9 @@
 
 Passionate about building innovative solutions with the MERN stack. Eager to learn technologies and grow.
 
-- 🌱 Learning: Machine Learning
-- 👯 Seeking: Collaborations on AI integration applications
-- 🤝 Looking for: Experienced Full Stack devs with ML integration skills
+- 🌱 Learning: Full Stack Dev!
+- 👯 Seeking: Collaborations on applications
+- 🤝 Looking for: Experienced Full Stack devs 
 
 Let's connect and build something amazing! 🚀
 
