@@ -14,7 +14,7 @@ Passionate about building innovative solutions with the MERN stack. Eager to lea
 
 - 🌱 Learning: Full Stack Dev!
 - 👯 Seeking: Collaborations on applications
-- 🤝 Looking for: Experienced Full Stack devs 
+- 🤝 Looking for: Tech enthusiasts!
 
 Let's connect and build something amazing! 🚀
 
