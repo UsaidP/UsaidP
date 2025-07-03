@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi! <img src="https://drive.google.com/uc?export=view&id=1-70i1jqPoZFMlXSyJiKbBeNXNbrJiPuT" alt="waving hand" width="50" align="top"> I am Usaid Patel.</h1>
+  <h1>Hi!  I am Usaid Patel.</h1>
 </div>
 
 <div align="center">
